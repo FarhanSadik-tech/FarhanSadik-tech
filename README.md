@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m a CSE Student <br>- 💻I'm currently learning Cyber Security <br>- 📚 I'm currently studing at Daffodil International University,Bangladesh <br>- ⚡In my free time, I enjoy adventure, photography, and exploring new places.</p>
+<p align="left">- 🔭 I’m a CSE Student <br>- 💻I'm currently learning Cyber Security <br>- 📚 I'm currently studing at Daffodil International University,Bangladesh <br>- ⚡In my free time, I enjoy adventure, photography, and exploring new places.</p>
 
 ###
 
