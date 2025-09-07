@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language</h3>
 
 ###
 
@@ -45,12 +45,28 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="45" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" height="25" alt="dot-net logo"  />
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="40" alt="python logo" />
+  <img width="12" />
+</div>
+
+###
+
+<h3 align="left">🛠 Tools</h3>
+
+###
+
+<div align="left">
+   <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" height="25" alt="dot-net logo"  />
   <img width="10" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="40" alt="vs code logo" />
+  <img width="12" />
+
 </div>
 
 ###
